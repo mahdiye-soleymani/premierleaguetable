@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 const result = () => {
  
     return (
       
-        <h1>result</h1>
+        <h1>result?</h1>
     
     )
   
